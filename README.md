@@ -1,6 +1,13 @@
-# Hello People!
-Here in this repo, we will be progressing from scratch to an intermediate level of Java programming.
-As for me, I never took programming and building skills seriously before passing the first year of my engineering degree. But now, I am more thoughtful and cautious about building skills and implementing them.
-I studied the fundamentals of the Python programming language in the first year, and now I am starting with the Java programming language.
-Java programming language will be the first hard skill for which I will be updating my repo.
-Thanks, all! Wish me luck!
+# Java Programming Journey
+
+Welcome to my Java learning repository!
+
+This repository documents my journey of learning Java from the fundamentals to an intermediate level.
+
+I did not focus seriously on programming and skill-building during my first year of engineering. However, I am now taking a more structured and consistent approach toward developing my technical skills.
+
+During my first year, I learned the fundamentals of Python. Now, I am starting my journey with Java, which will be the first programming language for which I am maintaining a dedicated learning repository.
+
+I will be regularly updating this repository as I learn new concepts, solve problems, and build programs.
+
+Wish me luck! 🚀
