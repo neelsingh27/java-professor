@@ -1,7 +1,7 @@
 ## 📈 Progress
 
 - [X] ☕ Java Basics
-- [ ] 📦 Variables and Data Types
+- [X] 📦 Variables and Data Types
 - [ ] ➕ Operators
 - [ ] 🔀 Conditional Statements
 - [ ] 🔁 Loops
