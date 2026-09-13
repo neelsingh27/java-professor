@@ -3,8 +3,8 @@
 - [X] ☕ Java Basics
 - [X] 📦 Variables and Data Types
 - [ ] ➕ Operators
-- [ ] 🔀 Conditional Statements
-- [ ] 🔁 Loops
+- [X] 🔀 Conditional Statements
+- [X] 🔁 Loops
 - [ ] 📊 Arrays
 - [ ] 🔤 Strings
 - [ ] 🛠️ Methods
