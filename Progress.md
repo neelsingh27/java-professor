@@ -2,7 +2,7 @@
 
 - [X] ☕ Java Basics
 - [X] 📦 Variables and Data Types
-- [ ] ➕ Operators
+- [X] ➕ Operators
 - [X] 🔀 Conditional Statements
 - [X] 🔁 Loops
 - [ ] 📊 Arrays
